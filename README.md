@@ -2,17 +2,18 @@
 
 ## Korsakov Ivan
 
-### Data analyst at DNS, in E-Commerce
+### Data engineer
 
 Stack:
 - 🐍 Python
+  - [DASH Plotly](https://github.com/plotly/dash)
 - 💾 SQL:
   - 🟨 Clickhouse;
   - 🟥 MSSQL;
   - 🟦 PostgreSQL;
-- 🖼️ Flask:
-  - [DASH Plotly](https://github.com/plotly/dash)
+  - 🟩 GreenPlum;
 - 🗳️ Kafka
+- 🔍 ElasticSearch
 
 I love exploring data 🗃️. 
 
