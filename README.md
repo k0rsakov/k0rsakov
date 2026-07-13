@@ -18,13 +18,15 @@ Life is short. Let's make studying the data something you're really looking forw
 
 ### 🤓 Where to find my work
 
-🎥✍️ I create detailed guides and stories — as in the form of videos on **[YouTube](https://www.youtube.com/@DataLikeQWERTY)**, and in the form of articles on **[Habr](https://habr.com/ru/users/k0rsakov/articles/)**. 
+🎥✍️ I create detailed guides and stories — as in the form of videos on *
+*[YouTube](https://www.youtube.com/@DataLikeQWERTY)**, and in the form of articles on *
+*[Habr](https://habr.com/ru/users/k0rsakov/articles/)**.
 
 Links:
+
 - <a href="https://www.youtube.com/@DataLikeQWERTY" target="_blank" rel="noreferrer">DataLikeQWERTY</a>
-- <a href="https://habr.com/ru/users/k0rsakov/articles/" target="_blank" rel="noreferrer">Habr</a> 
-
-
+- <a href="https://habr.com/ru/users/k0rsakov/articles/" target="_blank" rel="noreferrer">Habr</a>
+- <a href="https://www.linkedin.com/in/i-korsakov/" target="_blank" rel="noreferrer">LinkedIn</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
@@ -32,19 +34,41 @@ Links:
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-[]
-HEADER
-│
-├── EN intro (30 строк)
-│
-├── 🇬🇧 English
-│ ├── About
-│ ├── Stack
-│ ├── Open Source
-│
-└── 🇷🇺 Русский
-├── Обо мне
-├── 🎓 Менторство
-├── ✍️ Habr
-├── 🎬 YouTube
-├── Контакты
+### [RU]
+
+Я Корсаков Иван — энтузиаст обработки данных с более чем десятилетним опытом работы в области данных. А последние семь
+лет занимаюсь дата-инженерией.
+
+Помогаю компаниям всех размеров превращать необработанные данные в реальные аналитические материалы.
+
+Я считаю, что обучение должно быть интересным и практико-ориентированным. Поэтому в
+своих [видео](https://www.youtube.com/@DataLikeQWERTY) я стараюсь наглядно показывать примеры из реального дата-мира.
+
+#### 🎓 Менторство
+
+Провожу индивидуальное менторство и консультации для по дата-инженерии.
+
+Помогаю:
+
+- ✅ Войти в IT через Data Engineering.
+- ✅ Перейти в Data Engineering из других IT.
+- ✅ Получить ответы на вопросы по Data Engineering.
+- ✅ Составить продающее резюме в Data Engineering.
+- ✅ Продумать продающую легенду.
+- ✅ Улучшить архитектуру решений.
+
+Интересно? Тогда ознакомься c условиями на моём
+Notion — [Менторство Data Engineer | Дата-инженер](https://korsak0v.notion.site/Data-Engineer-185c62fdf79345eb9da9928356884ea0)
+если Notin не работает, то жми
+сюда — [DataEngineersPRO Korsakov Ivan](https://www.dataengineers.pro/mentors/korsakov-ivan/)
+
+#### Контакты:
+
+- <a href="https://www.youtube.com/@DataLikeQWERTY" target="_blank" rel="noreferrer">DataLikeQWERTY</a>
+- <a href="https://habr.com/ru/users/k0rsakov/articles/" target="_blank" rel="noreferrer">Habr</a>
+
+### Stack
+
+`DataBase`, `SQL`, `DuckDB`, `PostgreSQL`, `MSSQL`, `ClickHouse`, `GreenPlum`,`Trino`, `Docker`, `AirfLow`, `Git`,
+`Python`, `Kafka`, `S3`, `Apache Iceberg`, `DuckLake`, `DWH`, `Data Lake`, `Data LakeHouse`, `Data Governance`,
+`Data Quality`, `Apache Superset`, `Metabase`, `Yandex DataLens`, `Grafana`    
