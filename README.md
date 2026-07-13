@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there, I'm Korsakov Ivan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Hi there, I'm Ivan Korsakov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <br>
 also known as <a href="https://www.youtube.com/@DataLikeQWERTY" target="_blank" rel="noreferrer">DataLikeQWERTY</a> 
 </h2>
@@ -23,21 +23,13 @@ Life is short. Let's make learning Data Engineering something you actually enjoy
 
 🎥✍️ I regularly publish educational content:
 
-- **[YouTube Channel — DataLikeQWERTY](https://www.youtube.com/@DataLikeQWERTY);**
-- and in the form of articles on **[Habr](https://habr.com/ru/users/k0rsakov/articles/)**.
+- **[🎥 YouTube Channel — DataLikeQWERTY](https://www.youtube.com/@DataLikeQWERTY)**
+- **[✍️ Habr](https://habr.com/ru/users/k0rsakov/articles/)**.
 
-Links:
+You can also find me on:
 
-- [YouTube Channel — DataLikeQWERTY](https://www.youtube.com/@DataLikeQWERTY)
-- [Habr](https://habr.com/ru/users/k0rsakov/articles/)
 - [LinkedIn](https://www.linkedin.com/in/i-korsakov/)
 - [Telegram Channel](https://t.me/DataLikeQWERTY)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 ### [RU]
 
@@ -63,16 +55,19 @@ Links:
 - ✅ Продумать продающую легенду.
 - ✅ Улучшить архитектуру решений.
 
-Интересно? Тогда ознакомься c условиями на моём
+Интересно? Тогда ознакомься с условиями на моём
 Notion — [Менторство Data Engineer | Дата-инженер](https://korsak0v.notion.site/Data-Engineer-185c62fdf79345eb9da9928356884ea0)
-если Notin не работает, то жми
+если Notion недоступен/не открывается, то жми
 сюда — [DataEngineersPRO Korsakov Ivan](https://www.dataengineers.pro/mentors/korsakov-ivan/)
 
 #### Контакты:
 
-- <a href="https://www.youtube.com/@DataLikeQWERTY" target="_blank" rel="noreferrer">DataLikeQWERTY</a>
-- <a href="https://habr.com/ru/users/k0rsakov/articles/" target="_blank" rel="noreferrer">Habr</a>
-
+- **[🎥 YouTube Channel — DataLikeQWERTY](https://www.youtube.com/@DataLikeQWERTY)**
+- **[Менторство Data Engineer | Дата-инженер](https://korsak0v.notion.site/Data-Engineer-185c62fdf79345eb9da9928356884ea0)**
+- **[DataEngineersPRO Korsakov Ivan](https://www.dataengineers.pro/mentors/korsakov-ivan/)**
+- **[✍️ Habr](https://habr.com/ru/users/k0rsakov/articles/)**.
+- [LinkedIn](https://www.linkedin.com/in/i-korsakov/)
+- [Telegram Channel](https://t.me/DataLikeQWERTY)
 ### 🛠 Stack
 
 Languages:
@@ -105,3 +100,9 @@ If you're interested in collaboration, mentorship, or just want to discuss Data 
 - [Habr](https://habr.com/ru/users/k0rsakov/articles/)
 - [LinkedIn](https://www.linkedin.com/in/i-korsakov/)
 - [Telegram Channel](https://t.me/DataLikeQWERTY)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
