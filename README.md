@@ -68,6 +68,7 @@ Notion — [Менторство Data Engineer | Дата-инженер](https:
 - **[✍️ Habr](https://habr.com/ru/users/k0rsakov/articles/)**.
 - **[💻 LinkedIn](https://www.linkedin.com/in/i-korsakov/)**
 - **[✏️ Telegram Channel](https://t.me/DataLikeQWERTY)**
+
 ### 🛠 Stack
 
 Languages:
