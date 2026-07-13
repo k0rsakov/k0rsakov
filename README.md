@@ -28,8 +28,8 @@ Life is short. Let's make learning Data Engineering something you actually enjoy
 
 You can also find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/i-korsakov/)
-- [Telegram Channel](https://t.me/DataLikeQWERTY)
+- **[💻 LinkedIn](https://www.linkedin.com/in/i-korsakov/)**
+- **[✏️ Telegram Channel](https://t.me/DataLikeQWERTY)**
 
 ### [RU]
 
@@ -63,11 +63,11 @@ Notion — [Менторство Data Engineer | Дата-инженер](https:
 #### Контакты:
 
 - **[🎥 YouTube Channel — DataLikeQWERTY](https://www.youtube.com/@DataLikeQWERTY)**
-- **[Менторство Data Engineer | Дата-инженер](https://korsak0v.notion.site/Data-Engineer-185c62fdf79345eb9da9928356884ea0)**
-- **[DataEngineersPRO Korsakov Ivan](https://www.dataengineers.pro/mentors/korsakov-ivan/)**
+- **[🎓 Менторство Data Engineer | Дата-инженер](https://korsak0v.notion.site/Data-Engineer-185c62fdf79345eb9da9928356884ea0)**
+- **[🎓 DataEngineersPRO Korsakov Ivan](https://www.dataengineers.pro/mentors/korsakov-ivan/)**
 - **[✍️ Habr](https://habr.com/ru/users/k0rsakov/articles/)**.
-- [LinkedIn](https://www.linkedin.com/in/i-korsakov/)
-- [Telegram Channel](https://t.me/DataLikeQWERTY)
+- **[💻 LinkedIn](https://www.linkedin.com/in/i-korsakov/)**
+- **[✏️ Telegram Channel](https://t.me/DataLikeQWERTY)**
 ### 🛠 Stack
 
 Languages:
@@ -92,14 +92,16 @@ BI:
 Если вы заинтересованы в сотрудничестве, менторстве или просто хотите обсудить разработку данных, не стесняйтесь
 обращаться.
 
-### En
+### EN
 
 If you're interested in collaboration, mentorship, or just want to discuss Data Engineering, feel free to reach out.
 
-- [YouTube Channel — DataLikeQWERTY](https://www.youtube.com/@DataLikeQWERTY)
-- [Habr](https://habr.com/ru/users/k0rsakov/articles/)
-- [LinkedIn](https://www.linkedin.com/in/i-korsakov/)
-- [Telegram Channel](https://t.me/DataLikeQWERTY)
+- **[🎓 Менторство Data Engineer | Дата-инженер](https://korsak0v.notion.site/Data-Engineer-185c62fdf79345eb9da9928356884ea0)**
+- **[🎓 DataEngineersPRO Korsakov Ivan](https://www.dataengineers.pro/mentors/korsakov-ivan/)**
+- **[🎥 YouTube Channel — DataLikeQWERTY](https://www.youtube.com/@DataLikeQWERTY)**
+- **[✍️ Habr](https://habr.com/ru/users/k0rsakov/articles/)**.
+- **[💻 LinkedIn](https://www.linkedin.com/in/i-korsakov/)**
+- **[✏️ Telegram Channel](https://t.me/DataLikeQWERTY)**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
