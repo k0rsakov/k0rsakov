@@ -1,26 +1,29 @@
 <h2 align="center">
-Hi there, I'm Korsakov Ivan, like <a href="https://www.youtube.com/@DataLikeQWERTY" target="_blank" rel="noreferrer">DataLikeQWERTY</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Hi there, I'm Korsakov Ivan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<br>
+also known as <a href="https://www.youtube.com/@DataLikeQWERTY" target="_blank" rel="noreferrer">DataLikeQWERTY</a> 
 </h2>
 
 <h3 align="center">
-Data engineer & Mentor on a mission to make learning actually enjoyable.
+Data Engineer | Mentor | Content Creator
+<br>
+on a mission to make learning actually enjoyable.
 </h3> 
 
-I am Ivan Korsakov, a data processing enthusiast with more than ten years of experience in the field of data. I've been
-working in data engineering for the last seven years.
+I’m a Data Engineer with over 10 years of experience working with data and the last 7 years focused on Data Engineering.
 
-I help companies of all sizes turn raw data into real analytical materials.
+I help companies transform raw data into reliable data platforms and actionable insights.
 
-I believe that learning should be interesting and practice-oriented. Therefore, in
+I believe learning should be practical, engaging and based on real-world examples. Therefore, in
 my [videos](https://www.youtube.com/@DataLikeQWERTY) I try to visually show examples from the real data world.
 
-Life is short. Let's make studying the data something you're really looking forward to.
+Life is short. Let's make learning Data Engineering something you actually enjoy.
 
 ### 🤓 Where to find my work
 
-🎥✍️ I create detailed guides and stories — as in the form of videos on *
-*[YouTube](https://www.youtube.com/@DataLikeQWERTY)**, and in the form of articles on *
-*[Habr](https://habr.com/ru/users/k0rsakov/articles/)**.
+🎥✍️ I regularly publish educational content:
+- **[YouTube](https://www.youtube.com/@DataLikeQWERTY);** 
+- and in the form of articles on **[Habr](https://habr.com/ru/users/k0rsakov/articles/)**.
 
 Links:
 
@@ -46,12 +49,14 @@ Links:
 
 #### 🎓 Менторство
 
-Провожу индивидуальное менторство и консультации для по дата-инженерии.
+Провожу индивидуальное менторство и консультации по дата-инженерии.
 
 Помогаю:
 
+
 - ✅ Войти в IT через Data Engineering.
 - ✅ Перейти в Data Engineering из других IT.
+- ✅ Подготовиться к собеседованию.
 - ✅ Получить ответы на вопросы по Data Engineering.
 - ✅ Составить продающее резюме в Data Engineering.
 - ✅ Продумать продающую легенду.
@@ -67,8 +72,19 @@ Notion — [Менторство Data Engineer | Дата-инженер](https:
 - <a href="https://www.youtube.com/@DataLikeQWERTY" target="_blank" rel="noreferrer">DataLikeQWERTY</a>
 - <a href="https://habr.com/ru/users/k0rsakov/articles/" target="_blank" rel="noreferrer">Habr</a>
 
-### Stack
+### 🛠 Stack
 
-`DataBase`, `SQL`, `DuckDB`, `PostgreSQL`, `MSSQL`, `ClickHouse`, `GreenPlum`,`Trino`, `Docker`, `AirfLow`, `Git`,
-`Python`, `Kafka`, `S3`, `Apache Iceberg`, `DuckLake`, `DWH`, `Data Lake`, `Data LakeHouse`, `Data Governance`,
-`Data Quality`, `Apache Superset`, `Metabase`, `Yandex DataLens`, `Grafana`    
+Languages:
+`Python` • `SQL`
+
+Databases:
+`PostgreSQL` • `ClickHouse` • `DuckDB` • `Greenplum` • `Trino` • `MSSQL` 
+
+Data Engineering
+`Airflow` • `Kafka` • `Docker` • `Git` • `S3`
+
+Architecture:
+`Data Warehouse` • `Data Lake` • `Data LakeHouse` • `Iceberg` • `DuckLake` • `Data Governance` • `Data Quality`
+
+BI:
+`Superset` • `Metabase` • `DataLens` • `Grafana`
