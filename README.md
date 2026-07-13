@@ -22,14 +22,16 @@ Life is short. Let's make learning Data Engineering something you actually enjoy
 ### 🤓 Where to find my work
 
 🎥✍️ I regularly publish educational content:
-- **[YouTube](https://www.youtube.com/@DataLikeQWERTY);** 
+
+- **[YouTube Channel — DataLikeQWERTY](https://www.youtube.com/@DataLikeQWERTY);**
 - and in the form of articles on **[Habr](https://habr.com/ru/users/k0rsakov/articles/)**.
 
 Links:
 
-- <a href="https://www.youtube.com/@DataLikeQWERTY" target="_blank" rel="noreferrer">DataLikeQWERTY</a>
-- <a href="https://habr.com/ru/users/k0rsakov/articles/" target="_blank" rel="noreferrer">Habr</a>
-- <a href="https://www.linkedin.com/in/i-korsakov/" target="_blank" rel="noreferrer">LinkedIn</a>
+- [YouTube Channel — DataLikeQWERTY](https://www.youtube.com/@DataLikeQWERTY)
+- [Habr](https://habr.com/ru/users/k0rsakov/articles/)
+- [LinkedIn](https://www.linkedin.com/in/i-korsakov/)
+- [Telegram Channel](https://t.me/DataLikeQWERTY)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
@@ -52,7 +54,6 @@ Links:
 Провожу индивидуальное менторство и консультации по дата-инженерии.
 
 Помогаю:
-
 
 - ✅ Войти в IT через Data Engineering.
 - ✅ Перейти в Data Engineering из других IT.
@@ -78,7 +79,7 @@ Languages:
 `Python` • `SQL`
 
 Databases:
-`PostgreSQL` • `ClickHouse` • `DuckDB` • `Greenplum` • `Trino` • `MSSQL` 
+`PostgreSQL` • `ClickHouse` • `DuckDB` • `Greenplum` • `Trino` • `MSSQL`
 
 Data Engineering
 `Airflow` • `Kafka` • `Docker` • `Git` • `S3`
@@ -88,3 +89,19 @@ Architecture:
 
 BI:
 `Superset` • `Metabase` • `DataLens` • `Grafana`
+
+## 📬 Let's connect
+
+### RU
+
+Если вы заинтересованы в сотрудничестве, менторстве или просто хотите обсудить разработку данных, не стесняйтесь
+обращаться.
+
+### En
+
+If you're interested in collaboration, mentorship, or just want to discuss Data Engineering, feel free to reach out.
+
+- [YouTube Channel — DataLikeQWERTY](https://www.youtube.com/@DataLikeQWERTY)
+- [Habr](https://habr.com/ru/users/k0rsakov/articles/)
+- [LinkedIn](https://www.linkedin.com/in/i-korsakov/)
+- [Telegram Channel](https://t.me/DataLikeQWERTY)
