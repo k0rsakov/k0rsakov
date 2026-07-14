@@ -100,7 +100,7 @@ If you're interested in collaboration, mentorship, or just want to discuss Data 
 - **[🎓 Менторство Data Engineer | Дата-инженер](https://korsak0v.notion.site/Data-Engineer-185c62fdf79345eb9da9928356884ea0)**
 - **[🎓 DataEngineersPRO Korsakov Ivan](https://www.dataengineers.pro/mentors/korsakov-ivan/)**
 - **[🎥 YouTube Channel — DataLikeQWERTY](https://www.youtube.com/@DataLikeQWERTY)**
-- **[✍️ Habr](https://habr.com/ru/users/k0rsakov/articles/)**.
+- **[✍️ Habr](https://habr.com/ru/users/k0rsakov/articles/)**
 - **[💻 LinkedIn](https://www.linkedin.com/in/i-korsakov/)**
 - **[✏️ Telegram Channel](https://t.me/DataLikeQWERTY)**
 
